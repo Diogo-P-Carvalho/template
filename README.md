@@ -1,6 +1,7 @@
 # Template
 
 Template for HTML, CSS and Javascript projects
+<br>
 <a href="https://github.com/Diogo-P-Carvalho/template/blob/main/README.md"><strong>Explore the docs »</strong></a>
 
 <a href="#">View Demo</a>
@@ -34,6 +35,8 @@ Template for HTML, CSS and Javascript projects
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+Template for HTML, CSS and Javascript projects
 
 ### Built With
 
