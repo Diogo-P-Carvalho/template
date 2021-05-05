@@ -15,12 +15,10 @@ Template for HTML, CSS and Javascript projects
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#objectives">Objectives</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
-    <li>
-        <a href="#objective-of-the-project">Objective Of The Project</a>
-    </li>
+    </li>    
     <li>
       <a href="#getting-started">Getting Started</a>      
     </li>
@@ -34,17 +32,14 @@ Template for HTML, CSS and Javascript projects
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Template for HTML, CSS and Javascript projects
+### Objectives
+
+- Having a starting template for HTML, CSS and Javascript projects
 
 ### Built With
 
 - HTML5
 - CSS3
-
-<!-- OBJECTIVE OF THE PROJECT -->
-## Objective Of The Project
-
-- Having a starting template for HTML, CSS and Javascript projects
 
 <!-- GETTING STARTED -->
 ## Getting Started
